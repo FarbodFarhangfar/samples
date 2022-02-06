@@ -1,2 +1,2 @@
 # THIS is sample pytorch cods
-Not a complate projects
+Not a complate project
