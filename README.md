@@ -1,2 +1,2 @@
-# THIS is sample pytorch cods
+# THIS is temp pytorch codes
 Not a complate project
